@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=EvilPot Honeypot
+Comment=Run EvilPot Honeypot
+Exec=/usr/local/bin/evilpot
+Icon=utilities-terminal
+Terminal=true
+Type=Application
+Categories=Network;Security;

@@ -1,0 +1,9 @@
+Package: evilpot
+Version: 1.0
+Section: net
+Priority: optional
+Architecture: all
+Maintainer: Your Name <your.email@example.com>
+Description: A realistic honeypot for SSH, HTTP, HTTPS, and FTP.
+ EvilPot is a multi-service honeypot designed to mimic real-world services
+ and log attacker activity.
